@@ -1,0 +1,11 @@
+*{
+    font-family:sans-serif;
+}
+.divHeader{
+    display:flex;
+    background-color:brown;
+    padding-bottom:20px;
+}
+.divMain{
+    margin-top:5%;
+}

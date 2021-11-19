@@ -1,0 +1,9 @@
+.imgLogo{
+    width:150px;
+    border-radius:50%;
+}
+.divLogo{
+    display:flex;
+    margin-left:20%;
+    margin-top:10%;
+}

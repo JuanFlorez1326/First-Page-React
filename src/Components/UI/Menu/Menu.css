@@ -1,0 +1,17 @@
+.divMenu a{
+    font-size:20px;
+    text-decoration:none;
+    color: #FFF;
+    margin:0% 0% 0% 40%;
+}
+.divMenu a:hover{
+    background-color: black;
+    border-radius:20px;
+}
+.classMenu{
+    display:flex;
+    margin-top:12%;
+}
+.classMenu a{
+    padding:10px 20px 10px 20px;
+}

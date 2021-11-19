@@ -1,0 +1,17 @@
+.gridCards{
+    grid-template-columns:repeat(2,500px);
+    grid-template-rows:repeat(1,600px);
+    display:grid;
+    margin:100px;
+    justify-content:center;
+}
+
+.cardJs{
+    text-align:center;
+    border:2px solid black;
+    width:450px;
+}
+.classReact{
+    width:400px;
+    height:500px;
+}
