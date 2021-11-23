@@ -4,3 +4,9 @@
     padding:8px;
     text-align:center;
 }
+.redes img{
+    margin:0px 10px 0px 10px;
+}
+.redes img:hover{
+    cursor: pointer;
+}
